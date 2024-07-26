@@ -181,3 +181,40 @@ function cotizarSeguro(e) {
      // Utilizando el prototipe que va a cotizar
      ui.mostrarResultado(total, seguro)
 }
+
+.text_input {
+  font-size: 1rem;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 10px 15px;
+  width: 100%;
+}
+.text_input {
+  font-size: 1rem;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 10px 15px;
+  width: 100%;
+}
+.text_input {
+  font-size: 1rem;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 10px 15px;
+  width: 100%;
+}
+.text_input {
+  font-size: 1rem;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 10px 15px;
+  width: 100%;
+}
